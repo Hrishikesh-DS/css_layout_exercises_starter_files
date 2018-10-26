@@ -1,0 +1,42 @@
+main{
+	font-size: 0;
+}
+.one{
+	font-size: 0;
+}
+.two{
+	font-size: 0;
+}
+.container{
+	height:500px;
+	width:800px;
+}
+.inner1{
+	height: 200px;
+	width: 50%;
+	border: 1px solid black;
+	display: inline-block;
+	font-size: 0;
+}
+.top-left{
+	background-color: green;
+}
+.top-right{
+	background-color: blue;
+}
+.inner2{
+	height: 300px;
+	width: 33.33%;
+	border:1px solid black;
+	display: inline-block;
+	font-size: 0;
+}
+.bottom-left{
+	background-color: grey;
+}
+.bottom-mid{
+	background-color: black;
+}
+.bottom-right{
+	background-color: orange;
+}
